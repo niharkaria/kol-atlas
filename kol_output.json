@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Eric Topol",
+    "field": "Cardiology + AI in Medicine",
+    "affiliation": "Scripps Research Translational Institute",
+    "h_index": 198,
+    "total_citations": 163703,
+    "total_publications": 1482,
+    "recent_publications": 10,
+    "research_topics": [
+      "Artificial Intelligence",
+      "Cardiology",
+      "Genomics",
+      "Digital Medicine"
+    ],
+    "topic_diversity": 4,
+    "profile_source": "Semantic Scholar",
+    "profile_url": "https://www.semanticscholar.org/author/E.-Topol/144758045",
+    "confidence_score": 0.95
+  },
+  {
+    "name": "Siddhartha Mukherjee",
+    "field": "Oncology",
+    "affiliation": "Columbia University",
+    "h_index": 36,
+    "total_citations": 8086,
+    "total_publications": 111,
+    "recent_publications": 5,
+    "research_topics": [
+      "Oncology",
+      "Cancer Biology",
+      "Hematology",
+      "Stem Cell Biology"
+    ],
+    "topic_diversity": 4,
+    "profile_source": "Semantic Scholar",
+    "profile_url": "https://www.semanticscholar.org/author/S.-Mukherjee/49581145",
+    "confidence_score": 0.95
+  },
+  {
+    "name": "David Sinclair",
+    "field": "Aging + Longevity Biology",
+    "affiliation": "Harvard Medical School",
+    "h_index": 98,
+    "total_citations": 64855,
+    "total_publications": 275,
+    "recent_publications": 6,
+    "research_topics": [
+      "Aging",
+      "Epigenetics",
+      "Longevity",
+      "Sirtuins",
+      "NAD+ Metabolism"
+    ],
+    "topic_diversity": 5,
+    "profile_source": "Semantic Scholar",
+    "profile_url": "https://www.semanticscholar.org/author/D.-Sinclair/11152645",
+    "confidence_score": 0.95
+  }
+]

@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+sentence-transformers
+scikit-learn
+seaborn
+matplotlib
+groq
+streamlit
